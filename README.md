@@ -48,7 +48,7 @@ A responsive Weather App built using HTML, CSS, and JavaScript.
 
 ## 🔗 Live Demo
 
-👉 [Open Weather App](https://your-username.github.io/weather-app/)
+👉 [Open Weather App](https://sudheer3883.github.io/weatherApp/)
 
 ## 📂 GitHub Repository
 
